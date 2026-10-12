@@ -101,17 +101,66 @@ The workflow was tested in a ServiceNow Personal Developer Instance.
 
 ## 📸 Screenshots
 
-Project screenshots will be added to the `screenshots/` directory.
+### 1. Application Setup
 
-Examples:
+The custom tables and forms used to manage critical incidents and record workflow outcomes.
 
-- Flow Designer overview
-- Incident form
-- Category-based routing
-- Escalation email
-- Updated incident record
-- Audit record
-- Successful flow execution
+**Critical Incident Management — Table Structure**
+
+![Incident Table](Screenshots/application-setup/Incident-Table.png)
+
+**Critical Incident Management — Form**
+
+![Incident Form](Screenshots/application-setup/Incident-Form.png)
+
+**Critical Incident Flow Audit — Table Structure**
+
+![Audit Table](Screenshots/application-setup/Audit-Table.png)
+
+**Critical Incident Flow Audit — Form**
+
+![Audit Form](Screenshots/application-setup/Audit-Form.png)
+
+### 2. Flow Design and Testing
+
+The Flow Designer workflow, routing logic, and execution testing.
+
+**Workflow Design — Part 1**
+
+![Workflow 1](Screenshots/flow-design-testing/Work-Flow-1.png)
+
+**Workflow Design — Part 2**
+
+![Workflow 2](Screenshots/flow-design-testing/Work-Flow-2.png)
+
+**Flow Testing — Part 1**
+
+![Flow Testing 1](Screenshots/flow-design-testing/Flow-Testing-1.png)
+
+**Flow Testing — Part 2**
+
+![Flow Testing 2](Screenshots/flow-design-testing/Flow-Testing-2.png)
+
+### 3. Results and Notifications
+
+The generated notifications and final incident and audit record updates.
+
+**Initial Incident Notification**
+
+![Incident Email](Screenshots/results-notifications/Incident-Email.png)
+
+**Escalation Notification**
+
+![Escalation Email](Screenshots/results-notifications/Escalation-Email.png)
+
+**Escalated Audit Record**
+
+![Escalated Incident](Screenshots/results-notifications/Escalated-Incident.png)
+
+**Escalation Incident Record**
+
+![Escalation Audit](Screenshots/results-notifications/Escalation-Audit-Record.png)
+
 
 ## 🚀 Setup and Usage
 
